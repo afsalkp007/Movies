@@ -192,17 +192,17 @@
 			children = (
 				F4D65068273852BE0068A14E /* Protocol */,
 				F4D6506A273852BE0068A14E /* Model */,
-				F4B8BB4F273A57F300C7E933 /* ClassifiedsService */,
+				F4B8BB4F273A57F300C7E933 /* MoviesService */,
 			);
 			path = Service;
 			sourceTree = "<group>";
 		};
-		F4B8BB4F273A57F300C7E933 /* ClassifiedsService */ = {
+		F4B8BB4F273A57F300C7E933 /* MoviesService */ = {
 			isa = PBXGroup;
 			children = (
 				F4D6506E273852BE0068A14E /* MoviesDataService.swift */,
 			);
-			path = ClassifiedsService;
+			path = MoviesService;
 			sourceTree = "<group>";
 		};
 		F4B8BB50273A588E00C7E933 /* ClassifiedsTableViewCell */ = {
