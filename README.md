@@ -6,4 +6,3 @@ Demo Movies App
 3. Added automated tests
 4. App can be compiled in Latest Xcode
 5. Applied different design patterns. 
-6. Added a reusable cacheable class
